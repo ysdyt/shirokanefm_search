@@ -1,5 +1,5 @@
-[白金鉱業.FM](https://shirokane-kougyou.fm/)番組内の類似エピソードを検索できます。
-URL
+[白金鉱業.FM](https://shirokane-kougyou.fm/)番組内の類似エピソードを検索できます。  
+https://share.streamlit.io/ysdyt/shirokanefm_search/main/shirokanefm_similarity.py
 
 ざっくりと、やり方は以下です。
 1. Amazon Transcribeでmp3音源を文字起こし
